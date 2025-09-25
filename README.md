@@ -1,4 +1,4 @@
-## Hi there my name is James Miley 👋
+## Hi there, I'm James Miley, an aspiring IT professional 👋
 
 <!--
 **jamesaustinmiley/jamesaustinmiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
