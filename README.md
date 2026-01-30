@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle](https://github.com/jamesaustinmiley/Ticket-Lifecycle)
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/jamesaustinmiley/AD-Infrastructure)
-  - [Active Directory Deployment]
+  - [Active Directory Deployment](https://github.com/jamesaustinmiley/AD-Deployment)
   - [Creating Users with PowerShell]
   - [Group Policy and Managing Accounts]
   - [Network File Shares and Permissions]
