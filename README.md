@@ -10,7 +10,7 @@
   - [Active Directory Deployment](https://github.com/jamesaustinmiley/AD-Deployment)
   - [Creating Users with PowerShell](https://github.com/jamesaustinmiley/AD-Users)
   - [Group Policy and Managing Accounts](https://github.com/jamesaustinmiley/Group-Policy)
-  - [Network File Shares and Permissions]
+  - [Network File Shares and Permissions](https://github.com/jamesaustinmiley/Network-File)
 
 <h2>🤳Connect with me:</h2>
 
