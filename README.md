@@ -2,7 +2,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation](<https://github.com/jamesaustinmiley/osTicket-Installation>)
+  - [osTicket: Installation](https://github.com/jamesaustinmiley/Installation/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/jamesaustinmiley/Post-Installation-Configuration/blob/main/README.md)
   - [osTicket: Ticket Lifecycle](https://github.com/jamesaustinmiley/osTicket-Ticket-Lifecycle-/blob/main/README.md)
 - <b>Microsoft Azure</b>
