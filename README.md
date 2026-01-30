@@ -6,8 +6,11 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jamesaustinmiley/Post-Installation-Configuration/blob/main/README.md)
   - [osTicket: Ticket Lifecycle](https://github.com/jamesaustinmiley/Ticket-Lifecycle)
 - <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs]
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
+  - [Preparing Active Directory Infrastructure in Azure]
+  - [Deploying Active Directory]
+  - [Creating Users with PowerShell]
+  - [Group Policy and Managing Accounts]
+  - [Network File Shares and Permissions]
 
 <h2>🤳Connect with me:</h2>
 
