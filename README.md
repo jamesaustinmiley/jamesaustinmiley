@@ -1,4 +1,4 @@
-## Hi there, I'm James Miley, an aspiring IT professional 👋
+## Hi there, I'm James Miley, [an aspiring IT professional]( https://www.linkedin.com/in/james-miley-55bbbb99/)👋
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
