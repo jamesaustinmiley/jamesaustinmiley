@@ -8,7 +8,7 @@
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/jamesaustinmiley/AD-Infrastructure)
   - [Active Directory Deployment](https://github.com/jamesaustinmiley/AD-Deployment)
-  - [Creating Users with PowerShell]
+  - [Creating Users with PowerShell](https://github.com/jamesaustinmiley/AD-Users)
   - [Group Policy and Managing Accounts]
   - [Network File Shares and Permissions]
 
