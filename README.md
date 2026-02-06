@@ -10,8 +10,7 @@
   - [Active Directory Deployment](https://github.com/jamesaustinmiley/AD-Deployment)
   - [Creating Users with PowerShell](https://github.com/jamesaustinmiley/AD-Users)
   - [Group Policy and Managing Accounts](https://github.com/jamesaustinmiley/Group-Policy)
-  - [Network File Shares and Permissions](https://github.com/jamesaustinmiley/Network-File)
-
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
