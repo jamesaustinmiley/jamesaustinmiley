@@ -8,7 +8,6 @@
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/jamesaustinmiley/AD-Infrastructure)
   - [Active Directory Deployment](https://github.com/jamesaustinmiley/AD-Deployment)
-  - [Creating Users with PowerShell](https://github.com/jamesaustinmiley/AD-Users)
   - [Group Policy and Managing Accounts](https://github.com/jamesaustinmiley/Group-Policy)
   
 <h2>🤳Connect with me:</h2>
