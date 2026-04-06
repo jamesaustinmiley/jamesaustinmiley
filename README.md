@@ -8,7 +8,7 @@
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/jamesaustinmiley/AD-Infrastructure)
   - [Active Directory Deployment](https://github.com/jamesaustinmiley/AD-Deployment)
-  - [Creating Users and Managing AD Accounts through Group Policy](https://github.com/jamesaustinmiley/Group-Policy)
+  - [Creating Users and Managing Active Directory Accounts](https://github.com/jamesaustinmiley/Group-Policy)
   
 <h2>🤳Connect with me:</h2>
 
