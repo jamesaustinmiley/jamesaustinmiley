@@ -6,9 +6,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jamesaustinmiley/Post-Installation-Configuration/blob/main/README.md)
   - [osTicket: Ticket Lifecycle](https://github.com/jamesaustinmiley/Ticket-Lifecycle)
 - <b>Active Directory</b>
-  - [Preparing Active Directory Infrastructure in Azure](https://github.com/jamesaustinmiley/AD-Infrastructure)
-  - [Active Directory Deployment](https://github.com/jamesaustinmiley/AD-Deployment)
-  - [Creating Users and Managing Active Directory Accounts](https://github.com/jamesaustinmiley/Group-Policy)
+  - [Active Directory: Preparing AD Infrastructure](https://github.com/jamesaustinmiley/AD-Infrastructure)
+  - [Active Directory: AD Deployment](https://github.com/jamesaustinmiley/AD-Deployment)
+  - [Active Directory: User Creation, AD Account Management, and File Share Permissions](https://github.com/jamesaustinmiley/Group-Policy)
   
 <h2>🤳Connect with me:</h2>
 
