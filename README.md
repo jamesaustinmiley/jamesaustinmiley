@@ -8,7 +8,7 @@
 - <b>Active Directory</b>
   - [Active Directory: Preparing AD Infrastructure](https://github.com/jamesaustinmiley/AD-Infrastructure)
   - [Active Directory: AD Deployment](https://github.com/jamesaustinmiley/AD-Deployment)
-  - [Active Directory: User & Access Management](https://github.com/jamesaustinmiley/Group-Policy)
+  - [Active Directory: User & Access Management](https://github.com/jamesaustinmiley/AD-Management)
   
 <h2>🤳Connect with me:</h2>
 
